@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 
 class Student {
@@ -52,7 +51,9 @@ class Student {
     }
 }
 
-//Output:
+
+//
+Output:
 
 STUDENT DETAILS
 USN     Name       Branch    Phone
